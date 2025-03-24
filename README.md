@@ -1,0 +1,1 @@
+# Adiscope-SwiftPackageManager
