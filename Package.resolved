@@ -1,0 +1,302 @@
+{
+  "pins" : [
+    {
+      "identity" : "adiscope-ios-chartboost",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/Adiscope-iOS-ChartBoost.git",
+      "state" : {
+        "revision" : "317cd268827f8030a7ba8e843dbade9834b21dd0",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscope-ios-pangle",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/Adiscope-iOS-Pangle.git",
+      "state" : {
+        "revision" : "148982cfb1d222affc48c4ff2cb5e84fefe9e721",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopeluckyevent-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeLuckyEvent-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "007128a92f5b536357b44e190e42ad62858888e6",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediaadmanager-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaAdManager-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "1dfdc750213a52af557e0384e64b9b53e8961e44",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediaadmob-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaAdMob-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "5dde21c026e27ed0819af3a2f598b84e6520de1a",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediachartboost-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaChartBoost-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "80d65e4f9afd2d6a34116f4733c53a6ac7616433",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamax-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMax-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "b55ebb28def99507ab12d294f8b3b4e07aff7e52",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapteradmanager-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterAdManager-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "997a1513c198625f99ece0ee503131ba1ee17a5c",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapteradmob-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterAdMob-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "8a517c178a399b17e24911965725cfc498d2670c",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapteramazon-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterAmazon-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "6af040d574cecccfc7c79af2cfcf4550adf6e466",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapterbidmachine-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterBidMachine-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "58885e08f46f348cefb35a266abcb2f296fc7aa3",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapterbigo-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterBigo-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "31c8fff03e8dbfaaf5c73b3be2ae16c8f5ace408",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapterchartboost-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterChartBoost-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "317eb5206c0be215b9000b3f884e58812515c978",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapterdtexchange-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterDTExchange-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "4cd03d13ad311d325cf2c3022ae8ec9fbb6de845",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapterfan-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterFan-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "116235f994f71957975e79b431288bf801f914cc",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapterinmobi-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterInMobi-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "482fa58e09657559b96d711280fcb12bca4cb221",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapterironsource-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterIronSource-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "5a4ee47d602a1ea317a139b8adca3a00084e43b3",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapterline-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterLine-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "7bf4f06cb7c04821fe347e70d3a6c95b931d17e9",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadaptermobvista-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterMobVista-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "8bdfda74fd856c719f4f8d189ee9fe88f7503406",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadaptermoloco-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterMoloco-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "152189665ee383231ef6a32c2c54666c1bfbd4f1",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapterogury-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterOgury-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "1e8aa00c457d8c5d86d5a7f672e4ffd184a4f8b7",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapterpangle-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterPangle-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "c4fbc781c14673159c7e5c9f8dd0fe566ce50b45",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapterpubmatic-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterPubMatic-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "be0d3e1c80e8c06dfe1b90576f827bb129be383a",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadapterunityads-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterUnityAds-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "44d6d311a11301504ad7029fa0f0888ea9b793cd",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediamaxadaptervungle-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterVungle-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "2516882f16e975e98e7912d50920e152d4eebdf2",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediapangle-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaPangle-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "8844cd8fcff7ffb319e05095340e24224349bdcb",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediatnkpub-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaTnkPub-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "02c8849a5b930e8eeb5db433d430c2df4903b6ee",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "adiscopemediavungle-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adiscope/AdiscopeMediaVungle-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "8d718efba70d16ceda79896f9880a6fbe00db9d9",
+        "version" : "5.2.0"
+      }
+    },
+    {
+      "identity" : "applovin-max-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git",
+      "state" : {
+        "revision" : "b5acf713209298059bb2f09b22d84d523454bc7b",
+        "version" : "13.5.1"
+      }
+    },
+    {
+      "identity" : "mintegraladsdk-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mintegral-official/MintegralAdSDK-Swift-Package.git",
+      "state" : {
+        "revision" : "af6d2c5d136ecf7d9761799e98c91b26bd8ce072",
+        "version" : "8.0.4"
+      }
+    },
+    {
+      "identity" : "swift-package-manager-google-mobile-ads",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
+      "state" : {
+        "revision" : "1239c23464503053c17d37ee5daa70de3455e9c8",
+        "version" : "12.14.0"
+      }
+    },
+    {
+      "identity" : "swift-package-manager-google-user-messaging-platform",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/googleads/swift-package-manager-google-user-messaging-platform.git",
+      "state" : {
+        "revision" : "13b248eaa73b7826f0efb1bcf455e251d65ecb1b",
+        "version" : "3.1.0"
+      }
+    },
+    {
+      "identity" : "vungleadssdk-swiftpackagemanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Vungle/VungleAdsSDK-SwiftPackageManager.git",
+      "state" : {
+        "revision" : "ee4f0cb9244298a9d5dbadd29c9fd5798d49ee71",
+        "version" : "7.6.3"
+      }
+    }
+  ],
+  "version" : 2
+}
