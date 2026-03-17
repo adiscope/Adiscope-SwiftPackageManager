@@ -131,7 +131,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterFan-SwiftPackageManager.git",
       "state" : {
-        "revision" : "116235f994f71957975e79b431288bf801f914cc",
+        "revision" : "150b763d26992e43caa63fdc08d4809e2bcdc3ab",
         "version" : "5.2.0"
       }
     },
