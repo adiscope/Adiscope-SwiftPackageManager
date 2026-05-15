@@ -12,7 +12,7 @@ let package = Package(
             targets: ["AdiscopeTarget"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/adiscope/AdiscopeLuckyEvent-SwiftPackageManager.git", exact: "5.2.5"),
+        .package(url: "https://github.com/adiscope/AdiscopeLuckyEvent-SwiftPackageManager.git", exact: "5.3.1"),
         .package(url: "https://github.com/adiscope/AdiscopeMediaAdManager-SwiftPackageManager.git", exact: "5.2.0"),
         .package(url: "https://github.com/adiscope/AdiscopeMediaAdMob-SwiftPackageManager.git", exact: "5.2.4"),
         .package(url: "https://github.com/adiscope/AdiscopeMediaChartBoost-SwiftPackageManager.git", exact: "5.2.0"),
@@ -75,8 +75,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "Adiscope",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.2.6/Adiscope.zip",
-            checksum: "9b65a2a07657b467a627110493b029bf285348ba7610733d373ea3b82325e7eb"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.3.1/Adiscope.zip",
+            checksum: "2d281f7bd9e77f5a7a750482a76987d89312e4f86d52a1107fb36ef79753ca93"
         ),
     ]
 )
