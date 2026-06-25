@@ -32,7 +32,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/adiscope/AdiscopeMediaAdManager-SwiftPackageManager.git",
       "state" : {
-        "revision" : "8be9ba030c44401470b9abdd444ca3a3a7cddd24",
+        "revision" : "26312e62c671fa82846e2f30e3c1a6472b22cf4e",
         "version" : "5.4.0"
       }
     },
@@ -41,7 +41,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/adiscope/AdiscopeMediaAdMob-SwiftPackageManager.git",
       "state" : {
-        "revision" : "c025d2ae12f532673500fb3730f15014d1bda9d0",
+        "revision" : "11fa8dd14117bec766d88d8de08a4efa1c81b335",
         "version" : "5.4.0"
       }
     },
@@ -68,7 +68,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterAdManager-SwiftPackageManager.git",
       "state" : {
-        "revision" : "b9e26e115fc98fb83bfc1c83c394271eacd37d2b",
+        "revision" : "121291bf31c7dbb948fad98ca4a9c86808dde14e",
         "version" : "5.4.0"
       }
     },
@@ -77,7 +77,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterAdMob-SwiftPackageManager.git",
       "state" : {
-        "revision" : "29661ec6e65f0385b53e879aa135859eb5da1289",
+        "revision" : "3a58f6b019cba2b8511d59d35799d5c97b658083",
         "version" : "5.4.0"
       }
     },
