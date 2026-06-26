@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/adiscope/AdiscopeLuckyEvent-SwiftPackageManager.git",
       "state" : {
-        "revision" : "e71dba5ceb389c05a6d5c2103702c8662c943d4a",
-        "version" : "5.3.3"
+        "revision" : "1b8aedae168e967913b232cebbd9c43be92f10c8",
+        "version" : "5.4.0"
       }
     },
     {
