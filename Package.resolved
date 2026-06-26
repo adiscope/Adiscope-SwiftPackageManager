@@ -194,7 +194,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/adiscope/AdiscopeMediaMaxAdapterPubMatic-SwiftPackageManager.git",
       "state" : {
-        "revision" : "9808c1a2ea9138ab93639ee6e9acc1a3a6f7a7fc",
+        "revision" : "ed411958baa769fc9219fa2d3333a66d906500c3",
         "version" : "5.4.0"
       }
     },
@@ -259,6 +259,15 @@
       "state" : {
         "revision" : "94ffb6a153cc48ff5b81534b0e840534d3998133",
         "version" : "8.1.3"
+      }
+    },
+    {
+      "identity" : "openwrapsdk-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PubMatic/OpenWrapSDK-Swift-Package.git",
+      "state" : {
+        "revision" : "e0e97beacf3c1b3ea3f2dc6ec4a6e57a3e7428c3",
+        "version" : "5.1.0"
       }
     },
     {
